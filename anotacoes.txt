@@ -1,0 +1,10 @@
+O modo de entrar na sala vai ser por identificação e senha
+Usar o poder é uma ação no início de uma rodada, antes do enunciado da questão aparecer
+
+Estados da sessão
+CRIADA
+ESPERANDO 
+PERGUNTA
+INTERVALO
+
+Modificador que esconde o timer
